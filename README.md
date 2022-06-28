@@ -20,7 +20,7 @@
 
 - ✔️ Adicionar família (sobrenome) na fila de atendimento
 - ✔️ Ordernar por Família, Integrantes e tempo de atendimento
-- ✔️ Em seguida irá atender 1 família que está na lista
+- ✔️ Em seguida irá atender 1 família que está na fila
 - ✔️ Pesquisa da família que está na fila de espera, se não encontrada apresentrá erro
 <hr>
 
