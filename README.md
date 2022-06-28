@@ -1,5 +1,5 @@
 # sistemaCRAS
->  *Sistema de atendimento (LinkedList) desenvolvido em Java*
+>  *Sistema de atendimento e ordenação (LinkedList) desenvolvido em Java*
 
 <p align="center">
  <a href="#status">Status</a> • 
