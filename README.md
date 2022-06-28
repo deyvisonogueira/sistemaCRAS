@@ -18,9 +18,9 @@
      Recursos
 </h3>
 
-- ✔️ Adicionar família (sobrenome) na fila de atendimento
+- ✔️ Adicionar família (sobrenome) na lista de atendimento
 - ✔️ Ordernar por Família, Integrantes e tempo de atendimento
-- ✔️ Em seguida irá atender 1 família que está na fila
+- ✔️ Em seguida irá atender 1 família que está na lista
 - ✔️ Pesquisa da família que está na fila de espera, se não encontrada apresentrá erro
 <hr>
 
